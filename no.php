@@ -4,7 +4,7 @@ function toName($number){
   return; ///
 }
 
-function convert(){
+function convert($number,$currency=''){
         $hyphen      = '-';
         $conjunction = ' e ';
         $separator   = ', ';
